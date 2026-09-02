@@ -1,6 +1,6 @@
 # getgitgirl — build in public
 
-I spent ~20 years in traditional, digital and social marketing. Now I'm becoming a
+I spent ~10 years in traditional, digital and social marketing. Now I'm becoming a
 **marketing engineer**: turning market signal into pipeline with AI agents.
 
 This repo is the public log of that transition — the framework I'm following, what

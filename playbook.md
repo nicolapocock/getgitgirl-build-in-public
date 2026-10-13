@@ -114,8 +114,8 @@ voice · customer words · cites receipts · right buyer · gets approval · cre
 
 ## Monetisation (four paths)
 
-1. **In-house** — become the person building the growth system ($250K–$500K, sits next to revenue).
-2. **Consulting** — embed 30/60/90 days, install one system, sell the outcome ($5K–$30K/mo).
+1. **In-house** — become the person building the growth system (it sits next to revenue).
+2. **Consulting** — embed 30/60/90 days, install one system, sell the outcome.
 3. **Productised service** — one wedge, one market (e.g. "outbound signal engines for
    vertical SaaS", "founder content engine for B2B CEOs", "customer-truth repos for
    seed-stage startups"). Tighter wedge = easier to sell, deliver, repeat.

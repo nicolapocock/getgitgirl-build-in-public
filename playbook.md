@@ -11,7 +11,6 @@ video reads + a human checkpoint. Load this when building out a growth OS repo p
 **Marketing engineer** (aka forward-deployed marketer / AI growth operator): the
 person who **turns market signal into pipeline using AI agents, data, code, and taste**
 — building a marketing system that keeps learning. The name will change; the job won't.
-Claimed comp: $250K / $500K / $1M+.
 
 Process loop: **Listen** (customer + market) → **Build** (assets + agents) →
 **Ship** (content + outbound) → **Learn** (results + memory) → back to Listen.
